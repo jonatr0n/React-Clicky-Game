@@ -1,0 +1,27 @@
+.header {
+    /* background-color: #940f0f; */
+    color: #fff;
+    min-height: 40px;
+    padding: 20px 20px;
+    padding-bottom: 10px;
+    text-align: center;
+    font-family: 'Cinzel', serif;
+}
+
+h1{
+    font-size: 44px;
+    font-family: 'Cinzel', serif;
+}
+
+p{
+    font-size: 20px;
+}
+
+.list li {
+    display: inline-block;
+    padding: 26px 0;
+    width: 33.3%;
+    text-align: center;
+    font-size: 34px;
+    font-family: 'Cinzel', serif;
+}

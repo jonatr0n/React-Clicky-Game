@@ -1,0 +1,50 @@
+[
+    {
+        "name":"Gaping Dragon",
+        "image": "http://darksouls.wdfiles.com/local--files/bosses/gaping-dragon-large.jpg"
+    },
+    {
+        "name":"Manus",
+        "image": "https://cdnb.artstation.com/p/assets/images/images/000/230/161/large/anders-g-jensen-screenshot340.jpg?1413973320" 
+    },
+    {
+        "name":"Aldrich",
+        "image": "http://assets.vg247.com/current//2016/04/dark_souls_3_boss_how_to_beat_aldrich_devourer_of_gods.jpg" 
+    },
+    {
+        "name":"Abyss Watchers",
+        "image": "https://twinfinite.net/wp-content/uploads/2016/06/dark-souls-iii_20160325202553.jpg" 
+    },
+    {
+        "name":"4 Kings",
+        "image": "https://farm6.static.flickr.com/5560/14379826436_9cd9f916b9.jpg" 
+    },
+    {
+        "name":"Dancer",
+        "image": "https://vignette.wikia.nocookie.net/darksouls/images/b/b5/Dancer_of_the_Boreal_Valley.jpg/revision/latest?cb=20160414211516" 
+    },
+    {
+        "name":"Ancient Wyvern",
+        "image": "https://vignette.wikia.nocookie.net/darksouls/images/8/81/Ancient_Wyvern_-_01.jpg/revision/latest?cb=20170708194028" 
+    },
+    {
+        "name":"Deacons Of The Deep",
+        "image": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/053%20-%206SQeZqA.jpg" 
+    },
+    {
+        "name":"High Lord Wolnir",
+        "image": "https://vignette.wikia.nocookie.net/darksouls/images/7/75/High_Lord_Wolnir_6.png/revision/latest?cb=20160620200907" 
+    },
+    {
+        "name":"Ocerios, The Consumed King",
+        "image": "http://darksouls3.wdfiles.com/local--files/image-set-bosses:oceiros-guide-site-feature/oceiros_guide_SITE_feature.jpg" 
+    },
+    {
+        "name":"Curse-Rotted Greatwood",
+        "image": "https://vignette.wikia.nocookie.net/darksouls/images/2/28/Greatwood.jpg/revision/latest?cb=20160423230044" 
+    },
+    {
+        "name":"The Twin Princes",
+        "image": "http://darksouls3.wdfiles.com/local--files/image-set-bosses:dark-souls-iii-20160329221827/DARK-SOULS-III_20160329221827.jpg" 
+    }
+]
