@@ -33,5 +33,16 @@
   },
   "devDependencies": {
     "gh-pages": "^2.0.1"
+  },
+  "description": "",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jonatr0n/React-Clicky-Game.git"
+  },
+  "author": "jonathan tran",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jonatr0n/React-Clicky-Game/issues"
   }
 }

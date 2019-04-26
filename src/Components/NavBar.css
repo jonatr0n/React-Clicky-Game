@@ -1,27 +1,31 @@
 .header {
-    /* background-color: #940f0f; */
-    color: #fff;
-    min-height: 40px;
-    padding: 20px 20px;
-    padding-bottom: 10px;
-    text-align: center;
-    font-family: 'Cinzel', serif;
+  color: black;
+  min-height: 80px;
+  padding: 30px;
+  padding-bottom: 10px;
+  text-align: center;
+  font-family: 'ZCOOL KuaiLe', cursive;
+  background-color: rgb(153, 135, 105);
+  background-size: cover;
+  background-blend-mode: screen;
+  background-image: url("https://i.redd.it/brunufx9bwe01.jpg");
 }
 
-h1{
-    font-size: 44px;
-    font-family: 'Cinzel', serif;
+h1 {
+  font-size: 44px;
+  font-family: 'ZCOOL KuaiLe', cursive;
 }
 
-p{
-    font-size: 20px;
+h2 {
+  font-size: 20px;
+  font-family: 'ZCOOL KuaiLe', cursive;
 }
 
 .list li {
-    display: inline-block;
-    padding: 26px 0;
-    width: 33.3%;
-    text-align: center;
-    font-size: 34px;
-    font-family: 'Cinzel', serif;
+  display: inline-block;
+  padding: 26px 0;
+  width: 33.3%;
+  text-align: center;
+  font-size: 34px;
+  font-family: 'ZCOOL KuaiLe', cursive;
 }

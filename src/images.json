@@ -1,50 +1,138 @@
 [
     {
-        "name":"Gaping Dragon",
-        "image": "http://darksouls.wdfiles.com/local--files/bosses/gaping-dragon-large.jpg"
+        "name":"Kulve Taroth",
+        "image": "https://vignette.wikia.nocookie.net/monsterhunter/images/e/ef/MHW-Kulve_Taroth_Icon.png/revision/latest/scale-to-width-down/50?cb=20180419213156"
     },
     {
-        "name":"Manus",
-        "image": "https://cdnb.artstation.com/p/assets/images/images/000/230/161/large/anders-g-jensen-screenshot340.jpg?1413973320" 
+        "name":"Kulu Ya Ku",
+        "image": "https://vignette.wikia.nocookie.net/monsterhunter/images/c/ca/MHW-Kulu-Ya-Ku_Icon.png/revision/latest/scale-to-width-down/50?cb=20180120224450" 
     },
     {
-        "name":"Aldrich",
-        "image": "http://assets.vg247.com/current//2016/04/dark_souls_3_boss_how_to_beat_aldrich_devourer_of_gods.jpg" 
+        "name":"Kirin",
+        "image": "https://vignette.wikia.nocookie.net/monsterhunter/images/8/81/MHW-Kirin_Icon.png/revision/latest/scale-to-width-down/50?cb=20180129013139" 
     },
     {
-        "name":"Abyss Watchers",
-        "image": "https://twinfinite.net/wp-content/uploads/2016/06/dark-souls-iii_20160325202553.jpg" 
+        "name":"Jyuratodus",
+        "image": "https://vignette.wikia.nocookie.net/monsterhunter/images/d/da/MHW-Jyuratodus_Icon.png/revision/latest/scale-to-width-down/50?cb=20180120224449" 
     },
     {
-        "name":"4 Kings",
-        "image": "https://farm6.static.flickr.com/5560/14379826436_9cd9f916b9.jpg" 
+        "name":"Great Jagras",
+        "image": "https://vignette.wikia.nocookie.net/monsterhunter/images/2/2d/MHW-Great_Jagras_Icon.png/revision/latest/scale-to-width-down/50?cb=20181008232606" 
     },
     {
-        "name":"Dancer",
-        "image": "https://vignette.wikia.nocookie.net/darksouls/images/b/b5/Dancer_of_the_Boreal_Valley.jpg/revision/latest?cb=20160414211516" 
+        "name":"Great Girros",
+        "image": "https://vignette.wikia.nocookie.net/monsterhunter/images/e/e1/MHW-Great_Girros_Icon.png/revision/latest/scale-to-width-down/50?cb=20180126232500" 
     },
     {
-        "name":"Ancient Wyvern",
-        "image": "https://vignette.wikia.nocookie.net/darksouls/images/8/81/Ancient_Wyvern_-_01.jpg/revision/latest?cb=20170708194028" 
+        "name":"Dodogama",
+        "image": "https://vignette.wikia.nocookie.net/monsterhunter/images/3/3e/MHW-Dodogama_Icon.png/revision/latest/scale-to-width-down/50?cb=20180127022935" 
     },
     {
-        "name":"Deacons Of The Deep",
-        "image": "https://darksouls3.wiki.fextralife.com/file/Dark-Souls-3/053%20-%206SQeZqA.jpg" 
+        "name":"Black Diablos",
+        "image": "https://vignette.wikia.nocookie.net/monsterhunter/images/d/dc/MHW-Black_Diablos_Icon.png/revision/latest/scale-to-width-down/50?cb=20181008232237" 
     },
     {
-        "name":"High Lord Wolnir",
-        "image": "https://vignette.wikia.nocookie.net/darksouls/images/7/75/High_Lord_Wolnir_6.png/revision/latest?cb=20160620200907" 
+        "name":"Diablos",
+        "image": "https://vignette.wikia.nocookie.net/monsterhunter/images/4/47/MHW-Diablos_Icon.png/revision/latest/scale-to-width-down/50?cb=20181008232238" 
     },
     {
-        "name":"Ocerios, The Consumed King",
-        "image": "http://darksouls3.wdfiles.com/local--files/image-set-bosses:oceiros-guide-site-feature/oceiros_guide_SITE_feature.jpg" 
+        "name":"Deviljho",
+        "image": "https://vignette.wikia.nocookie.net/monsterhunter/images/9/91/MHW-Deviljho_Icon.png/revision/latest/scale-to-width-down/50?cb=20180419213155" 
     },
     {
-        "name":"Curse-Rotted Greatwood",
-        "image": "https://vignette.wikia.nocookie.net/darksouls/images/2/28/Greatwood.jpg/revision/latest?cb=20160423230044" 
+        "name":"Behemoth",
+        "image": "https://vignette.wikia.nocookie.net/monsterhunter/images/d/d8/MHW-Behemoth_Icon.png/revision/latest/scale-to-width-down/50?cb=20180802230640" 
     },
     {
-        "name":"The Twin Princes",
-        "image": "http://darksouls3.wdfiles.com/local--files/image-set-bosses:dark-souls-iii-20160329221827/DARK-SOULS-III_20160329221827.jpg" 
+        "name":"Bazelgeuse",
+        "image": "https://vignette.wikia.nocookie.net/monsterhunter/images/5/57/MHW-Bazelgeuse_Icon.png/revision/latest/scale-to-width-down/50?cb=20180127022935" 
+    },
+    {
+        "name":"Barroth",
+        "image": "https://vignette.wikia.nocookie.net/monsterhunter/images/0/0a/MHW-Barroth_Icon.png/revision/latest/scale-to-width-down/50?cb=20180121180656" 
+    },
+    {
+        "name":"Anjanath",
+        "image": "https://vignette.wikia.nocookie.net/monsterhunter/images/5/58/MHW-Anjanath_Icon.png/revision/latest/scale-to-width-down/50?cb=20181007032543" 
+    },
+    {
+        "name":"Kushala Daora",
+        "image": "https://vignette.wikia.nocookie.net/monsterhunter/images/e/e2/MHW-Kushala_Daora_Icon.png/revision/latest/scale-to-width-down/50?cb=20180129013140" 
+    },
+    {
+        "name":"Lavisoth",
+        "image": "https://vignette.wikia.nocookie.net/monsterhunter/images/2/25/MHW-Lavasioth_Icon.png/revision/latest/scale-to-width-down/50?cb=20180128062822" 
+    },
+    {
+        "name":"Legiana",
+        "image": "https://vignette.wikia.nocookie.net/monsterhunter/images/1/13/MHW-Legiana_Icon.png/revision/latest/scale-to-width-down/50?cb=20180127022936" 
+    },
+    {
+        "name":"Lunastra",
+        "image": "https://vignette.wikia.nocookie.net/monsterhunter/images/e/e1/MHW-Lunastra_Icon.png/revision/latest/scale-to-width-down/50?cb=20180708004617" 
+    },
+    {
+        "name":"Odogaron",
+        "image": "https://vignette.wikia.nocookie.net/monsterhunter/images/f/fd/MHW-Odogaron_Icon.png/revision/latest/scale-to-width-down/50?cb=20180127022937" 
+    },
+    {
+        "name":"Negigante",
+        "image": "https://vignette.wikia.nocookie.net/monsterhunter/images/4/4c/MHW-Nergigante_Icon.png/revision/latest/scale-to-width-down/50?cb=20180127022937" 
+    },
+    {
+        "name":"Paolumu",
+        "image": "https://vignette.wikia.nocookie.net/monsterhunter/images/0/04/MHW-Paolumu_Icon.png/revision/latest/scale-to-width-down/50?cb=20180126232501" 
+    },
+    {
+        "name":"Pukei Pukei",
+        "image": "https://vignette.wikia.nocookie.net/monsterhunter/images/b/b5/MHW-Pukei-Pukei_Icon.png/revision/latest/scale-to-width-down/50?cb=20181007032654" 
+    },
+    {
+        "name":"Radobaan",
+        "image": "https://vignette.wikia.nocookie.net/monsterhunter/images/2/23/MHW-Radobaan_Icon.png/revision/latest/scale-to-width-down/50?cb=20180126232459" 
+    },
+    {
+        "name":"Rathalos",
+        "image": "https://vignette.wikia.nocookie.net/monsterhunter/images/8/8c/MHW-Rathalos_Icon.png/revision/latest/scale-to-width-down/50?cb=20181008232240" 
+    },
+    {
+        "name":"Azure Rathalos",
+        "image": "https://vignette.wikia.nocookie.net/monsterhunter/images/8/8e/MHW-Azure_Rathalos_Icon.png/revision/latest/scale-to-width-down/50?cb=20181008232237" 
+    },
+    {
+        "name":"Rathian",
+        "image": "https://vignette.wikia.nocookie.net/monsterhunter/images/3/32/MHW-Rathian_Icon.png/revision/latest/scale-to-width-down/50?cb=20181008232240" 
+    },
+    {
+        "name":"Pink Rathian",
+        "image": "https://vignette.wikia.nocookie.net/monsterhunter/images/1/15/MHW-Pink_Rathian_Icon.png/revision/latest/scale-to-width-down/50?cb=20181008232239" 
+    },
+    {
+        "name":"Teostra",
+        "image": "https://vignette.wikia.nocookie.net/monsterhunter/images/d/d7/MHW-Teostra_Icon.png/revision/latest/scale-to-width-down/50?cb=20180129013141" 
+    },
+    {
+        "name":"Tobi Kadachi",
+        "image": "https://vignette.wikia.nocookie.net/monsterhunter/images/c/cf/MHW-Tobi-Kadachi_Icon.png/revision/latest/scale-to-width-down/50?cb=20180121011604" 
+    },
+    {
+        "name":"Tzitzi Ya Ku",
+        "image": "https://vignette.wikia.nocookie.net/monsterhunter/images/0/01/MHW-Tzitzi-Ya-Ku_Icon.png/revision/latest/scale-to-width-down/50?cb=20180126232501" 
+    },
+    {
+        "name":"Urugaan",
+        "image": "https://vignette.wikia.nocookie.net/monsterhunter/images/5/5f/MHW-Uragaan_Icon.png/revision/latest/scale-to-width-down/50?cb=20180129013141" 
+    },
+    {
+        "name":"Vaal Hazak",
+        "image": "https://vignette.wikia.nocookie.net/monsterhunter/images/f/fb/MHW-Vaal_Hazak_Icon.png/revision/latest/scale-to-width-down/50?cb=20180126200207" 
+    },
+    {
+        "name":"Xenojiiva",
+        "image": "https://vignette.wikia.nocookie.net/monsterhunter/images/e/e3/MHW-Xeno%27jiiva_Icon.png/revision/latest/scale-to-width-down/50?cb=20180127022938" 
+    },
+    {
+        "name":"Zorah Magdaros",
+        "image": "https://vignette.wikia.nocookie.net/monsterhunter/images/1/16/MHW-Zorah_Magdaros_Icon.png/revision/latest/scale-to-width-down/50?cb=20180121055851" 
     }
 ]

@@ -1,21 +1,17 @@
-
-
-
 * {
   margin: 0px;
   padding: 0px;
   box-sizing: border-box;
-  
 }
-
-body{
-  background-image: url('https://wallpaperaccess.com/full/2125.jpg') ;
+body {
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
+  background-color: rgb(0, 0, 0);
   background-size: cover;
-}
+  background-blend-mode: screen;
 
+}
 .ui.container {
   display: flex;
   min-height: 80%;
